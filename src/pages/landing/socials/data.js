@@ -6,16 +6,16 @@ export const links = [
   {
     icon: discord,
     title: "DISCORd",
-    to: "https://discord.com/invite/hayamiworld",
+    to: "https://discord.gg/DKBJZtG9",
   },
   {
     icon: twitter,
     title: "TWITTER",
-    to: "https://twitter.com/hayamiworld",
+    to: "https://twitter.com",
   },
   {
     icon: instagram,
     title: "INSTAGRAM",
-    to: "https://www.instagram.com/hayamiworld/",
+    to: "https://www.instagram.com",
   },
 ];

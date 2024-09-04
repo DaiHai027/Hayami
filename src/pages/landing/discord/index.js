@@ -36,7 +36,7 @@ const Discord = () => {
             }
             <DiscordActions>
               <LinkButton
-                target={"https://discord.com/invite/hayamiworld"}
+                target={"https://discord.gg/DKBJZtG9"}
                 flag
               >
                 <span>{"JOIN OUR DISCORD"}</span>
